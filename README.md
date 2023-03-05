@@ -1,4 +1,6 @@
-# Scrapers -  My written web scrapers for saving time in critical situations. 
+# Scrapers
+
+**My written web scrapers for saving time in critical situations.** 
 
 ## What is this?
 
